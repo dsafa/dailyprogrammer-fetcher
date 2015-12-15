@@ -2,8 +2,6 @@ import time
 import praw
 import submission_parser
 import submission_writer
-import pprint
-import challenge
 import fetch_settings
 
 
